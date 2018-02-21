@@ -112,7 +112,7 @@ var projects = {
   projects: [{
     title: 'coffee shop application',
     dates: 'may-2015',
-    description: 'This is the coffee shop that i work to creaat the website for it  ',
+    description: 'This is the coffee shop  ',
     images: ['images/shop.jpg'],
   }, ]
 };
